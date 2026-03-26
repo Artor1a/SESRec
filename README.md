@@ -1,7 +1,8 @@
-This repository provides the data files and preprocessing results used in the paper:
-
-**SESRec: Semantic-Sequential Modeling for Next POI Recommendation**
+## Overview
+The data in this repository are derived from publicly available Foursquare NYC and TKY datasets used in prior next POI recommendation studies.
 
 ## Original Data Sources
+This repository does not claim ownership of the original raw datasets. The original data were released by prior works. We only provide the processed files used in our experiments.
 
-The original datasets are based on the public Foursquare check-in data used in previous next POI recommendation studies.
+## Preprocessing
+The released files are generated after preprocessing, trajectory construction, and train/validation/test splitting for SESRec.
